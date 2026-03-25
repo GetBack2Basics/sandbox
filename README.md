@@ -1,3 +1,2 @@
 # sandbox
-This Sanbox is for testing stuff
-and more is coming
+This Sanbox is for testing
